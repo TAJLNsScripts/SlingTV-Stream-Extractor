@@ -11,4 +11,4 @@ Usage:
   - Go to local storage and copy the value of variable "persist:root"
   - Make a file called "user.txt" next to slingtv.py and save the copied string into it
   - pip install -r requirements.txt
-  - slingtv.py
+  - python slingtv.py
