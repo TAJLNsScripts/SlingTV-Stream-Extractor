@@ -1,0 +1,4 @@
+m3u8==3.5.0
+PyJWT==2.8.0
+pywidevine==1.6.0
+Requests==2.31.0

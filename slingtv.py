@@ -176,7 +176,7 @@ try:
     token = extract_token()
 except:
     print('Failed getting token')
-    print('Did you copy "persist:root" local variable from browser to user.txt?')
+    print('Did you copy "persist:root" local storage variable from browser to user.txt?')
     quit()
 
 input('Press enter to fetch channel list')
